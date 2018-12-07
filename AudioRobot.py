@@ -45,7 +45,7 @@ def save_wave_file(filename,data):
     wf.setnchannels(channels)#声道
     wf.setsampwidth(sampwidth)#采样字节 1 or 2
     wf.setframerate(framerate)#采样频率 8000 or 16000
-    wf.writeframes(b"".join(data))#https://stackoverflow.com/questions/32071536/typeerror-sequence-item-0-expected-str-instance-bytes-found
+    wf.writeframes(b"".join(data))
     wf.close()
 
 def my_record():
