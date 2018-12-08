@@ -16,3 +16,4 @@ ChatRobot.py used two api , one of this is a tuling api.
 baidu_api.py	is teach you how to use the baidu Automatic Speech Recognition api. 
 AudioRobot.py	is a robot that you can speak with her, there are some place for you to continue to optimize.For example, you can speak 
 only in some key are pressed.I think you will use some knowledge of thread.
+ 
