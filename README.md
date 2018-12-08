@@ -5,8 +5,10 @@ This is a repository of robot which can chat with the programmer.
 Here are some python files and some wav files :
 
 
-wav files like these below is used to cache or verify.\n
+wav files like these below is used to cache or verify.
+
 01.wav	is uesd to transfer in program.
+
 16k.wav	is a file to verify the correct of baidu api.
 
 
