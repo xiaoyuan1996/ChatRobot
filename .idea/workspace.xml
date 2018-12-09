@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eefb3cc-35fa-4bee-8499-d5d85418fb5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AudioRobotWithMutlithread.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.wav" afterPath="$PROJECT_DIR$/01.wav" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AudioRobotWithMutlithread.py" afterPath="$PROJECT_DIR$/AudioRobotWithMutlithread.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="AudioRobotWithMutlithread.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AudioRobotWithMutlithread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="640">
+              <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -58,8 +57,8 @@
         <option value="$PROJECT_DIR$/tet.py" />
         <option value="$PROJECT_DIR$/audio.py" />
         <option value="$PROJECT_DIR$/AudioRobot.py" />
-        <option value="$PROJECT_DIR$/AudioRobotWithMutlithread.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/AudioRobotWithMutlithread.py" />
       </list>
     </option>
   </component>
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544149164657</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Add a thread&quot;">
+      <created>1544353274667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544353274667</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -278,7 +284,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;nothing change&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;nothing change&quot;" />
+    <MESSAGE value="&quot;Add a thread&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add a thread&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -411,10 +418,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AudioRobotWithMutlithread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="640">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>

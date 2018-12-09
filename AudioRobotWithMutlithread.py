@@ -118,9 +118,6 @@ def chat_robot(msg):
     return resp
 
 
-
-
-
 while True:
     my_record()
     audio = BAIDU_ASR('01.wav')
